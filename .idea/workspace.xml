@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6d904ac-669b-4382-9657-bd64a605742e" name="Changes" comment="Ejercicio 2" />
+    <list default="true" id="b6d904ac-669b-4382-9657-bd64a605742e" name="Changes" comment="Ejercicio 1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mates/src/main/java/mates/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/mates/src/main/java/mates/Principal.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +39,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "17"
+    "jdk.selected.JAVA_MODULE": "17",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -47,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679594507442</updated>
-      <workItem from="1679594509585" duration="1275000" />
+      <workItem from="1679594509585" duration="1902000" />
     </task>
     <task id="LOCAL-00001" summary="Terminado ejercicio del juego de la vida">
       <created>1679595491804</created>
@@ -91,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679595635888</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Ejercicio 1">
+      <created>1679596070667</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1679596070667</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +125,7 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Terminado ejercicio 1" />
     <MESSAGE value="Ejercicio 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio 2" />
+    <MESSAGE value="Ejercicio 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio 1" />
   </component>
 </project>
