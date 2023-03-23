@@ -6,10 +6,7 @@ import java.util.Scanner;
 public class Matematicas {
     //esta dando pistas pero no se enterran
 
-    public static double generarNumeroPi(double pasos) {
-        Scanner sn = new Scanner(System.in);
-        System.out.println("Inserte número de puntos a generar: ");
-        int puntosTotales = sn.nextInt();
+    public static double generarNumeroPi(int puntosTotales) {
         int aciertos = 0;
         double areaCuadrado = 4.0;
 

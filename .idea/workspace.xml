@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6d904ac-669b-4382-9657-bd64a605742e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mates/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mates/src/main/java/dominio/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mates/src/main/java/dominio/Tablero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mates/src/main/java/mates/Matematicas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mates/src/main/java/mates/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Graph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="b6d904ac-669b-4382-9657-bd64a605742e" name="Changes" comment="Ejercicio 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,8 +47,51 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679594507442</updated>
-      <workItem from="1679594509585" duration="938000" />
+      <workItem from="1679594509585" duration="1275000" />
     </task>
+    <task id="LOCAL-00001" summary="Terminado ejercicio del juego de la vida">
+      <created>1679595491804</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679595491804</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Terminado ejercicio de grafos">
+      <created>1679595544743</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679595544743</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial commit">
+      <created>1679595569970</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679595569970</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Terminado ejercicio 1">
+      <created>1679595591625</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679595591625</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Ejercicio 2">
+      <created>1679595627192</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1679595627192</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Ejercicio 2">
+      <created>1679595635888</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1679595635888</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,5 +107,13 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Terminado ejercicio del juego de la vida" />
+    <MESSAGE value="Terminado ejercicio de grafos" />
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="Terminado ejercicio 1" />
+    <MESSAGE value="Ejercicio 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio 2" />
   </component>
 </project>
