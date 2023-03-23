@@ -17,10 +17,10 @@ public class Main {
         System.out.println("Graph:");
         System.out.println(g.onePath(1,6));
 
-        List<Integer> expectedPath = new ArrayList<>(); expectedPath.add(1);
+        /*List<Integer> expectedPath = new ArrayList<>(); expectedPath.add(1);
         expectedPath.add(5);
         expectedPath.add(6);
-        expectedPath.add(4);
+        expectedPath.add(4);*/
 
         //Se comprueba si el camino devuelto es igual al esperado. assertEquals(expectedPath, g.onePath(1, 4));
 
